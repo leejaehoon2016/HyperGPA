@@ -1,4 +1,4 @@
-# HyperGPA Reproduce
+# Official implementation of HyperGPA [[arxiv](https://arxiv.org/abs/2211.12034)]
 
 ## 1. Software Environment
 
