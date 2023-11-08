@@ -1,4 +1,5 @@
-# Official implementation of HyperGPA [[arxiv](https://arxiv.org/abs/2211.12034)]
+# Official implementation of HyperGPA 
+HyperNetwork Approximating Future Parameters for Time Series Forecasting under Temporal Drifts [[arxiv](https://arxiv.org/abs/2211.12034)]
 
 ## 1. Software Environment
 
